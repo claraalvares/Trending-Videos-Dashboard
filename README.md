@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo criar um dashboard automatizado para analisar vídeos históricos que entraram na seção de tendências do YouTube. O dashboard foi projetado para ajudar gerentes de marketing e planejadores de anúncios a acompanhar as tendências de vídeos por categoria, região e data. O objetivo é automatizar o processo de responder perguntas frequentes sobre as tendências dos vídeos e fornecer insights valiosos sobre a distribuição e popularidade das categorias de vídeos entre as regiões, com foco especial nos Estados Unidos.
+Este projeto tem como objetivo criar um dashboard automatizado para analisar dados sobre vídeos em alta no YouTube. O dashboard foi projetado para ajudar gerentes de marketing e planejadores de anúncios a acompanhar as tendências de vídeos por categoria, região e data. O objetivo é automatizar o processo de responder perguntas frequentes sobre as tendências dos vídeos e fornecer insights sobre a distribuição e popularidade das categorias de vídeos entre as regiões.
 
 ## Objetivo de Negócio
 
@@ -71,7 +71,7 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## About the Project
 
-This project aims to create an automated dashboard to analyze historical videos that appeared in the YouTube trending section. The dashboard is designed to help marketing managers and ad planners track video trends by category, region, and date. The goal is to automate the process of answering frequently asked questions about video trends and provide valuable insights into the distribution and popularity of video categories across regions, with a special focus on the United States.
+This project aims to create an automated dashboard to analyze data on trending videos on YouTube. The dashboard is designed to help marketing managers and ad planners track video trends by category, region, and date. The goal is to automate the process of answering frequently asked questions about video trends and provide insights into the distribution and popularity of video categories across regions.
 
 ## Business Objective
 
